@@ -224,4 +224,3 @@ Data and Analytics Leads help teams use evidence to measure value, monitor outco
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
 - The complete set of persona definitions helps teams clarify ownership, accountability, and decision-making across planning, execution, release, and operations.
-
